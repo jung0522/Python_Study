@@ -1,0 +1,3 @@
+hello
+ this is data.txt
+ 파일은 utf8방식으로 저장하였습니다.
